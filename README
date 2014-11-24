@@ -8,6 +8,7 @@ Resources
 * http://material-ui.com/#/get-started
 * http://browserify.org/
 * https://github.com/substack/browserify-handbook
+* watchify -t reactify __src__ -o __output__
 
 TODO
 
