@@ -1,4 +1,8 @@
+var React = require('react'),
+  mui = require('material-ui'),
+  PaperButton = mui.PaperButton;
+
 React.render(
-  <h1>Hello, world!</h1>,
-  document.getElementById('example')
+    <PaperButton type={PaperButton.Types.FLAT} label="Default" />,
+    document.getElementById('example')
 );
