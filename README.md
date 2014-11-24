@@ -4,7 +4,7 @@ This will/ should be a small tool for Josie to play with. It's also currently a 
 for me to learn how to use LESS and Browserify and React and I have 0 idea what I'm doing
 so things are a mess and there are files all over the place, some needed, some not
 
-## Resources
+### Resources
 
 * http://facebook.github.io/react/docs/getting-started.html
 * http://material-ui.com/#/get-started
@@ -12,13 +12,13 @@ so things are a mess and there are files all over the place, some needed, some n
 * https://github.com/substack/browserify-handbook
 * watchify -t reactify _src_ -o _output_
 
-## TODO
+### TODO
 
 * Unplug my head from my ass
 * Figure out a file watcher for LESS & JS code
 * Come up with a consistent/ sensible source & build convention
 
-## Ideas
+### Ideas
 
 * Click button, get new picture of baby
 * Play baby sounds
